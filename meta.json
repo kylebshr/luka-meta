@@ -1,9 +1,9 @@
 {
   "banners": [
     {
-      "id": "test-banner",
-      "title": "Banner Title",
-      "body": "Banner message"
+      "id": "explain-live-activites",
+      "title": "Live Activity Interruptions",
+      "body": "We’ve been making backend improvements that occasionally cause live activities to end unexpectedly. These updates are now complete, and you should see more stable performance going forward. Thanks for your patience!"
     }
   ],
   "minVersion": "2.0.0"
