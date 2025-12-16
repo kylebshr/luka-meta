@@ -3,7 +3,7 @@
     {
       "id": "explain-live-activites",
       "title": "Live Activity Interruptions",
-      "body": "We’ve been making backend improvements that occasionally cause live activities to end unexpectedly. These updates are now complete, and you should see more stable performance going forward. Thanks for your patience!"
+      "body": "Backend changes were causing live activities to end early. We’re done now, and things should be more stable!"
     }
   ],
   "minVersion": "2.0.0"
