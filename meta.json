@@ -1,0 +1,10 @@
+{
+  "banners": [
+    {
+      "id": "test-banner",
+      "title": "Banner Title",
+      "body": "Banner message"
+    }
+  ],
+  "minVersion": "2.0.0"
+}
