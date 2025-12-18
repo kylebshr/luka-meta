@@ -1,10 +1,4 @@
 {
-  "banners": [
-    {
-      "id": "explain-live-activites",
-      "title": "Live Activity Interruptions",
-      "body": "Backend changes were ending live activities early. This should be resolved."
-    }
-  ],
+  "banners": [],
   "minVersion": "2.0.0"
 }
