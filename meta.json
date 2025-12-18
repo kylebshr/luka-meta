@@ -1,10 +1,4 @@
 {
-  "banners": [
-    {
-      "id": "redis",
-      "title": "Improved Reliability",
-      "body": "Live Activities were briefly interrupted today so that future backend changes won’t end them again."
-    }
-  ],
+  "banners": [],
   "minVersion": "2.0.0"
 }
