@@ -1,10 +1,4 @@
 {
-  "banners": [
-    {
-      "id": "live-activity-rate-limiting",
-      "title": "Rate Limiting Issues",
-      "body": "We’re looking into elevated rate limiting affecting Live Activities."
-    }
-  ],
+  "banners": [],
   "minVersion": "2.7.2"
 }
