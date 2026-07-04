@@ -1,14 +1,7 @@
 {
   "banners": [
     {
-      "id": "update-for-live-activities",
-      "title": "Update Required",
-      "body": "Please update Luka to continue using Live Activities.",
-      "maxVersion": "2.6.99"
-    },
-    {
       "id": "live-activity-rate-limiting",
-      "title": "Rate Limiting",
       "body": "We’re looking into elevated rate limiting affecting Live Activities."
     }
   ],
