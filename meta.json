@@ -5,6 +5,11 @@
       "title": "Update Required",
       "body": "Please update Luka to continue using Live Activities.",
       "maxVersion": "2.6.99"
+    },
+    {
+      "id": "live-activity-rate-limiting",
+      "title": "Live Activity Delays",
+      "body": "We're looking into elevated rate limiting affecting Live Activities."
     }
   ],
   "minVersion": "2.7.2"
