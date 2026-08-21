@@ -1,4 +1,10 @@
 {
-  "banners": [],
+  "banners": [
+    {
+      "id": "live-activity-updates",
+      "title": "Live Activity Issues",
+      "body": "We’re investigating an issue causing Live Activities to stop updating."
+    }
+  ],
   "minVersion": "2.7.2"
 }
