@@ -1,5 +1,5 @@
 {
   "banners": [],
   "minVersion": "2.7.2",
-  "cloudflareRollout": 0.5
+  "cloudflareRollout": 0.1
 }
